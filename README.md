@@ -2,7 +2,7 @@
 
 _Disclaimer: All opinions are my own and do not reflect those of any past or future employers._
 
-I'm currently a software engineer at [Behaviour Lab](https://behaviourlab.com/). At Behaviour Lab, we use behavioural science and advanced analytics to transform how the £70 trillion active asset management industry make their investments.
+I'm currently the Technical Lead of a wonderful team of 8 engineers at [Behaviour Lab](https://behaviourlab.com/). At Behaviour Lab, we use behavioural science and advanced analytics to transform how the £70 trillion active asset management industry make their investments.
 
 I recently finished my MEng in Electrical and Electronic Engineering at [Imperial College London](https://imperial.ac.uk/).
 
