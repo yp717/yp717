@@ -2,17 +2,15 @@
 
 _Disclaimer: All opinions are my own and do not reflect those of any past or future employers._
 
-I'm currently the Technical Lead of a wonderful team of 8 engineers at [Behaviour Lab](https://behaviourlab.com/). At Behaviour Lab, we use behavioural science and advanced analytics to transform how the £70 trillion active asset management industry make their investments.
+I'm currently the Technical Lead / Head of Engineering of a wonderful team of 12 engineers at [Behaviour Lab](https://behaviourlab.com/). At Behaviour Lab, we use behavioural science and advanced analytics to transform how the £70 trillion active asset management industry make their investments.
 
-I recently finished my MEng in Electrical and Electronic Engineering at [Imperial College London](https://imperial.ac.uk/).
+I finished my MEng in Electrical and Electronic Engineering at [Imperial College London](https://imperial.ac.uk/).
 
-⚡️ Fun fact: when I'm not an engineer, I write and publish original music - check it out on [Spotify/Apple Music/Deezer/etc](https://spinnup.link/456899-underground)
+⚡️ Fun fact: when I'm not an engineer, I write and publish original music on [Spotify/Apple Music/Deezer/etc](https://share.amuse.io/oMKnfmPrDR8A)
 
 ## 📫 How to reach me
 
-Don't be a stranger, let's connect! 🙌
-
-Ask me about anything - past projects, collaborating on a hack, front-end development, machine learning, or tutoring - I'm currently taking new students for the next academic year!
+I'm not actively looking for new opportunities at this time but I'm always open to interesting conversations. Don't be a stranger, let's connect! 🙌
 
 <div style="inline-block">
     <a href="https://www.linkedin.com/in/yannis-panagis/">
@@ -61,16 +59,6 @@ I use a variety of tools in my work and projects day to day but these are some o
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
     <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-## 📚 I'm currently learning
-
-Some of the tools I'm currently working on and learning more about - this is not a full list! 🤓
-
-<div style="inline-block">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ## 🚀 Projects I've worked on recently
