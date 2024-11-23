@@ -1,5 +1,7 @@
 # Hi, I'm Yannis Panagis 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yp717&label=Profile%20views&color=0e75b6&style=flat" alt="yp717" /> </p>
+
 _Disclaimer: All opinions are my own and do not reflect those of any past or future employers._
 
 I'm currently the Technical Lead / Head of Engineering of a wonderful team of 12 engineers at [Behaviour Lab](https://behaviourlab.com/). At Behaviour Lab, we use behavioural science and advanced analytics to transform how the £70 trillion active asset management industry make their investments.
