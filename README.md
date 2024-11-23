@@ -1,14 +1,18 @@
 # Hi, I'm Yannis Panagis 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yp717&label=Profile%20views&color=0e75b6&style=flat" alt="yp717" /> </p>
-
 _Disclaimer: All opinions are my own and do not reflect those of any past or future employers._
 
-I'm currently the Technical Lead / Head of Engineering of a wonderful team of 12 engineers at [Behaviour Lab](https://behaviourlab.com/). At Behaviour Lab, we use behavioural science and advanced analytics to transform how the £70 trillion active asset management industry make their investments.
+## 🚀 About Me
 
-I finished my MEng in Electrical and Electronic Engineering at [Imperial College London](https://imperial.ac.uk/).
+I'm currently the CTO / Head of Engineering at [Behaviour Lab](https://behaviourlab.com/), where I lead a team of 12 engineers. I joined the team almost four years ago as one of the first engineers and have grown with the company to help shape its technical vision.
 
-⚡️ Fun fact: when I'm not an engineer, I write and publish original music on [Spotify/Apple Music/Deezer/etc](https://share.amuse.io/oMKnfmPrDR8A)
+In that time, we’ve shipped two products to customers, built out an exceptional engineering team, and now support clients managing billions in assets under management (AUM).
+
+At Behaviour Lab, we use behavioral science and advanced analytics to transform how the £70 trillion active asset management industry makes its investment decisions. We build front-office software for institutional asset managers in the analytics and workflow tools space.
+
+I finished my MEng in Electrical and Electronic Engineering at [Imperial College London](https://imperial.ac.uk/) with first-class honors and a spot on the Dean's List.
+
+When I'm not engineering, I spend my time running, cooking, and writing and publishing original music—you can find some of it on [Spotify/Apple Music/Deezer/etc](https://share.amuse.io/oMKnfmPrDR8A)!
 
 ## 📫 How to reach me
 
